@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @vetrvl
+- 👋 Hi, I’m @vetrvl and associated with Baseband R&D division in Nokia
 - 👀 I’m interested in Array Signal Processing, Holographic Radio Spaces, Intelligent Reflecting Surfaces.
-- 🌱 I’m currently pursuing PhD degree in IRS based communication systems.
+- 🌱 I have PhD degree in Wireless Signal Processing.
 - 💞️ I’m looking to collaborate on Green's function based scattering and communication modelling.
-- 📫 How to reach me vetrivelchelian[at]student[dot]tce[dot]com
+- 📫 How to reach me vetrivelchelian[at]student[dot]tce[dot]com or vetrvl[at]gmail[dot]com
 
 <!---
 vetrvl/vetrvl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
